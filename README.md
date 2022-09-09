@@ -9,6 +9,7 @@ Solution 1 Output:
 Solution 2 Output:
 
 (a) Displaying only numeric columns
+
 ![image](https://user-images.githubusercontent.com/96376883/189276632-251ebb6b-fb67-446e-89de-3f819f7f9d01.png)
 
 (b) Removing rows with null values from the dataframe
